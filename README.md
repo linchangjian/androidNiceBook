@@ -5,5 +5,7 @@ Android 内存泄露总结 http://duanmo.me/2016/04/17/memory-leak-summary/
 
 编程游戏 https://studio.code.org/
 
+胡凯android性能优化知识 http://hukai.me/android-performance-oom/
+
 
 
