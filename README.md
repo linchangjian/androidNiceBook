@@ -7,5 +7,7 @@ Android 内存泄露总结 http://duanmo.me/2016/04/17/memory-leak-summary/
 
 胡凯android性能优化知识 http://hukai.me/android-performance-oom/
 
+android开源项目大全 https://www.eecis.udel.edu/~xiwang/scripts/repo-list.txt
+
 
 
