@@ -12,6 +12,6 @@ android Recyclerview http://www.recyclerview.org/
 
 android开源项目大全 https://www.eecis.udel.edu/~xiwang/scripts/repo-list.txt
 
-
+ignore
 
 
